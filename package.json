@@ -13,6 +13,11 @@
     "react-scripts": "3.4.3",
     "styled-components": "^5.2.0"
   },
+   "engines": {
+    "node": "12.x",
+    "npm": "6.x",
+    "yarn": "1.x"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
